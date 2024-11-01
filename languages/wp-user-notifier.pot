@@ -1,0 +1,123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Notifier\n"
+"POT-Creation-Date: 2015-11-06 00:26+0200\n"
+"PO-Revision-Date: 2015-11-06 00:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: mluskavets@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;esc_html;esc_html_e;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-wp-user-notifier.php:107
+#: classes/class-wp-user-notifier.php:108
+#: classes/class-wp-user-notifier.php:182
+msgid "User Notifier"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:158
+msgid "Settings saved"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:167
+msgid "Settings restored default"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:183
+msgid "Send user notify when sent comment!"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:187
+msgid "Enable"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:190
+msgid "Enable user notifier"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:194
+msgid "Send notify:"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:197
+msgid "Comment needs to be pending"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:202
+msgid "Enable CF7:"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:205
+msgid "Send notify via Contact Form 7"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:207
+msgid "Only support default cf7 fields name:"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:214
+msgid "Subject"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:220
+msgid "Message"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:226
+msgid "Available shortcodes:"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:230
+msgid "Shortcodes work in the fields subject and message"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:248
+msgid "Restore default"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:250
+msgid "Default settings"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:251
+msgid "Restore all settings to default"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:255
+msgid "Yes"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:256
+msgid "No"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:257
+msgid "Are you sure?"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:338
+msgid "Notify from [sitename]"
+msgstr ""
+
+#: classes/class-wp-user-notifier.php:339
+msgid ""
+"\n"
+"\t\t<strong>Hello, [name], We got your message.</strong>\n"
+"\t\t<strong>Answer would be sent as soon as possible.</strong>\n"
+"\t\t\t\n"
+"\t\t&nbsp;\n"
+"\t\t\t\n"
+"\t\t<strong>If you didn't do this, someone has done it for you from the page [url], using your e-mail [email]. We are sorry for this email (we are apologize).</strong>\n"
+"\t\t\t\n"
+"\t\t&nbsp;\n"
+"\t\t\t\n"
+"\t\t<strong>Sincerely, [sitename]</strong>\n"
+"\t\t<strong>[siteurl]</strong>\n"
+"\t\t"
+msgstr ""
